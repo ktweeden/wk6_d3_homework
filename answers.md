@@ -9,6 +9,7 @@ I want to say.... yes?
 Clicking the next/step through button
 
 *What does the step into command do?*
-
+Steps into a specific method from a line which calls several.
 
 *What is the difference between evaluate expression and evaluate code fragment?*
+evaluate expression runs the whole expression and evaluate code fragment runs just a small part.
